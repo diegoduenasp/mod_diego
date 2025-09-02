@@ -1,0 +1,25 @@
+
+out/001_r_0_10300000_L.pdf: out/000_r_0_coord.tex out/001_r_0_10300000_L.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/001_r_0_10300000_L" "out/000_r_0_coord" 1
+out/001_r_0_10300000_K.pdf: out/000_r_0_coord.tex out/001_r_0_10300000_K.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/001_r_0_10300000_K" "out/000_r_0_coord" 1
+out/001_r_0_10300000_R.pdf: out/000_r_0_coord.tex out/001_r_0_10300000_R.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/001_r_0_10300000_R" "out/000_r_0_coord" 1
+out/003_r_0_11300100_L.pdf: out/002_r_0_mol_coord.tex out/003_r_0_11300100_L.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/003_r_0_11300100_L" "out/002_r_0_mol_coord" 1
+out/003_r_0_11300100_K.pdf: out/002_r_0_mol_coord.tex out/003_r_0_11300100_K.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/003_r_0_11300100_K" "out/002_r_0_mol_coord" 1
+out/003_r_0_11300100_R.pdf: out/002_r_0_mol_coord.tex out/003_r_0_11300100_R.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/003_r_0_11300100_R" "out/002_r_0_mol_coord" 1
+out/006_r_1_10300000_L.pdf: out/005_r_1_coord.tex out/006_r_1_10300000_L.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/006_r_1_10300000_L" "out/005_r_1_coord" 1
+out/006_r_1_10300000_K.pdf: out/005_r_1_coord.tex out/006_r_1_10300000_K.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/006_r_1_10300000_K" "out/005_r_1_coord" 1
+out/006_r_1_10300000_R.pdf: out/005_r_1_coord.tex out/006_r_1_10300000_R.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/006_r_1_10300000_R" "out/005_r_1_coord" 1
+out/008_r_1_11300100_L.pdf: out/007_r_1_mol_coord.tex out/008_r_1_11300100_L.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/008_r_1_11300100_L" "out/007_r_1_mol_coord" 1
+out/008_r_1_11300100_K.pdf: out/007_r_1_mol_coord.tex out/008_r_1_11300100_K.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/008_r_1_11300100_K" "out/007_r_1_mol_coord" 1
+out/008_r_1_11300100_R.pdf: out/007_r_1_mol_coord.tex out/008_r_1_11300100_R.tex out/commonPreamble.fmt
+	mod_post --mode compileTikz "out/008_r_1_11300100_R" "out/007_r_1_mol_coord" 1

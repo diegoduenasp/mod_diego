@@ -1,0 +1,3 @@
+\babel@toc {english}{}\relax 
+\contentsline {subsection}{\numberline {0.0.1}Imidazole}{2}{subsection.0.0.1}%
+\contentsline {subsection}{\numberline {0.0.2}Inverse Imidazole}{2}{subsection.0.0.2}%

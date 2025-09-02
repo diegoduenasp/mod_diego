@@ -1,0 +1,123 @@
+Imidazole = ruleGMLString("""rule [
+    ruleID "Imidazole"
+    left [
+        edge [ source 1 target 2 label "-" ]
+        edge [ source 1 target 18 label "=" ]       
+        edge [ source 2 target 15 label "=" ]
+        edge [ source 8 target 12 label "=" ]        
+        edge [ source 8 target 13 label "-" ]
+        edge [ source 5 target 16 label "-" ]
+        edge [ source 5 target 17 label "-" ]
+        edge [ source 6 target 14 label "-" ]
+        edge [ source 6 target 19 label "-" ]
+        edge [ source 6 target 20 label "-" ]
+    ]
+    context [
+        node [ id 1 label "C" ]
+        node [ id 2 label "C" ]
+        node [ id 3 label "*" ]
+        node [ id 4 label "*" ]
+        node [ id 5 label "S" ]
+        node [ id 6 label "S" ] # there need to be at least 2 alpha-H on one of the carbonyls
+        node [ id 7 label "*" ]
+        node [ id 8 label "C" ]
+        node [ id 9 label "C" ]
+        node [ id 10 label "O" ]
+        node [ id 11 label "*" ]
+        node [ id 12 label "O" ]
+        node [ id 13 label "H" ]
+        node [ id 14 label "H" ]
+        node [ id 15 label "O" ]
+        node [ id 16 label "H" ]
+        node [ id 17 label "H" ]
+        node [ id 18 label "O" ]
+        node [ id 19 label "H" ]
+        node [ id 20 label "H" ]
+        edge [ source 2 target 3 label "-" ]
+        edge [ source 1 target 4 label "-" ]
+        edge [ source 8 target 9 label "-" ]
+        edge [ source 9 target 11 label "-" ]
+        edge [ source 9 target 10 label "=" ]
+        edge [ source 5 target 7 label "-" ]
+
+    ]
+    right [
+        edge [ source 1 target 2 label "=" ]
+        edge [ source 1 target 5 label "-" ]
+        edge [ source 2 target 6 label "-" ]
+        edge [ source 6 target 8 label "=" ]
+        edge [ source 5 target 8 label "-" ]
+        edge [ source 12 target 13 label "-" ]
+        edge [ source 12 target 14 label "-" ]
+        edge [ source 18 target 19 label "-" ]
+        edge [ source 18 target 20 label "-" ]
+        edge [ source 15 target 16 label "-" ]
+        edge [ source 15 target 17 label "-" ]
+    ]
+]
+""")
+
+# The rule below does beta elimination in the same step, try to not do that
+
+inv_Imidazole = ruleGMLString("""rule [
+    ruleID "Inverse Imidazole"
+    left [
+        edge [ source 1 target 2 label "=" ]
+        edge [ source 1 target 5 label "-" ]
+        edge [ source 2 target 6 label "-" ]
+        edge [ source 6 target 8 label "=" ]
+        edge [ source 5 target 8 label "-" ]
+        edge [ source 12 target 13 label "-" ]
+        edge [ source 12 target 14 label "-" ]
+        edge [ source 18 target 19 label "-" ]
+        edge [ source 18 target 20 label "-" ]
+        edge [ source 15 target 16 label "-" ]
+        edge [ source 15 target 17 label "-" ]
+    ]
+    context [
+        node [ id 1 label "C" ]
+        node [ id 2 label "C" ]
+        node [ id 3 label "*" ]
+        node [ id 4 label "*" ]
+        node [ id 5 label "S" ]
+        node [ id 6 label "S" ] # there need to be at least 2 alpha-H on one of the carbonyls
+        node [ id 7 label "*" ]
+        node [ id 8 label "C" ]
+        node [ id 9 label "C" ]
+        node [ id 10 label "O" ]
+        node [ id 11 label "*" ]
+        node [ id 12 label "O" ]
+        node [ id 13 label "H" ]
+        node [ id 14 label "H" ]
+        node [ id 15 label "O" ]
+        node [ id 16 label "H" ]
+        node [ id 17 label "H" ]
+        node [ id 18 label "O" ]
+        node [ id 19 label "H" ]
+        node [ id 20 label "H" ]
+        edge [ source 2 target 3 label "-" ]
+        edge [ source 1 target 4 label "-" ]
+        edge [ source 8 target 9 label "-" ]
+        edge [ source 9 target 11 label "-" ]
+        edge [ source 9 target 10 label "=" ]
+        edge [ source 5 target 7 label "-" ]
+    ]
+    right [
+        edge [ source 1 target 2 label "-" ]
+        edge [ source 1 target 18 label "=" ]       
+        edge [ source 2 target 15 label "=" ]
+        edge [ source 8 target 12 label "=" ]        
+        edge [ source 8 target 13 label "-" ]
+        edge [ source 5 target 16 label "-" ]
+        edge [ source 5 target 17 label "-" ]
+        edge [ source 6 target 14 label "-" ]
+        edge [ source 6 target 19 label "-" ]
+        edge [ source 6 target 20 label "-" ]
+    ]
+]
+""")
+
+#p = GraphPrinter()
+#for a in inputRules:
+#    a.print()
+#print(inputRules)

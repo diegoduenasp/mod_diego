@@ -1,0 +1,40 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/007_r_1_mol_coord.tex}
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {\ensuremath{*}};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {N};
+\node[modStyleGraphVertex, text=blue, at=(\modIdPrefix v-coord-5)] (\modIdPrefix v-5) {N};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {\ensuremath{*}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-7)] (\modIdPrefix v-7) {C};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-8)] (\modIdPrefix v-8) {C};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-9)] (\modIdPrefix v-9) {O};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-10)] (\modIdPrefix v-10) {\ensuremath{*}};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-11)] (\modIdPrefix v-11) {O};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-12)] (\modIdPrefix v-12) {H};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-13)] (\modIdPrefix v-13) {H};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-14)] (\modIdPrefix v-14) {O};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-15)] (\modIdPrefix v-15) {H};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-16)] (\modIdPrefix v-16) {H};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-17)] (\modIdPrefix v-17) {O};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-18)] (\modIdPrefix v-18) {H};
+\node[modStyleGraphVertex, text=gray, at=(\modIdPrefix v-coord-19)] (\modIdPrefix v-19) {H};
+\modDrawDoubleBond{0}{1}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{0}{3}{1}{1}{}{}
+\modDrawSingleBond{0}{4}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{1}{2}{1}{1}{}{}
+\modDrawSingleBond{1}{5}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{4}{6}{1}{1}{}{}
+\modDrawSingleBond{4}{7}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawDoubleBond{5}{7}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{7}{8}{1}{1}{}{}
+\modDrawDoubleBond{8}{9}{1}{1}{}{}
+\modDrawSingleBond{8}{10}{1}{1}{}{}
+\modDrawSingleBond{11}{12}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{11}{13}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{14}{15}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{14}{16}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{17}{18}{1}{1}{NavyBlue, text=NavyBlue}{}
+\modDrawSingleBond{17}{19}{1}{1}{NavyBlue, text=NavyBlue}{}
+\end{tikzpicture}
