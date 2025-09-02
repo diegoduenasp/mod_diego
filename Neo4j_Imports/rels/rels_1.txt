@@ -1,0 +1,1028 @@
+4_0	N	-1	Nitrile Amination
+4_0	C#N	-1	Nitrile Amination
+4_0	C(N)=N	1	Nitrile Amination
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C(C=N)#N	1	HCN Addition to Nitriles
+8_0	O	-1	Nitrile Hydrolysis
+8_0	C#N	-1	Nitrile Hydrolysis
+8_0	C(N)=O	1	Nitrile Hydrolysis
+10_0	C(N)=N	-1	Nitrile Amination
+10_0	C(C=N)#N	-1	Nitrile Amination
+10_0	C(NC(C=N)=N)=N	1	Nitrile Amination
+12_0	C#N	-1	Nitrile Amination
+12_0	C(N)=N	-1	Nitrile Amination
+12_0	C(NC=N)=N	1	Nitrile Amination
+14_0	C(C=N)#N	-1	Nitrile Amination
+14_0	C(N)=O	-1	Nitrile Amination
+14_0	C(NC(C=N)=N)=O	1	Nitrile Amination
+16_0	N	-1	Nitrile Amination
+16_0	C(C=N)#N	-1	Nitrile Amination
+16_0	C(C(N)=N)=N	1	Nitrile Amination
+18_0	C#N	-1	Nitrile Amination
+18_0	C(N)=O	-1	Nitrile Amination
+18_0	C(NC=N)=O	1	Nitrile Amination
+20_0	C#N	-1	CN addition to iminonitriles
+20_0	C(C=N)#N	-1	CN addition to iminonitriles
+20_0	C(C(C#N)N)#N	1	CN addition to iminonitriles
+22_0	O	-1	Amide Hydrolysis
+22_0	C(N)=O	-1	Amide Hydrolysis
+22_0	N	1	Amide Hydrolysis
+22_0	C(O)=O	1	Amide Hydrolysis
+23_0	O	-1	Imine to Carbonyl
+23_0	C(N)=N	-1	Imine to Carbonyl
+23_0	N	1	Imine to Carbonyl
+23_0	C(N)=O	1	Imine to Carbonyl
+23_1	O	-1	Amidine to Amide Hydrolysis
+23_1	C(N)=N	-1	Amidine to Amide Hydrolysis
+23_1	N	1	Amidine to Amide Hydrolysis
+23_1	C(N)=O	1	Amidine to Amide Hydrolysis
+25_0	O	-1	Imine to Carbonyl
+25_0	C(C=N)#N	-1	Imine to Carbonyl
+25_0	N	1	Imine to Carbonyl
+25_0	C(C=O)#N	1	Imine to Carbonyl
+27_0	O	-1	Nitrile Hydrolysis
+27_0	C(C=N)#N	-1	Nitrile Hydrolysis
+27_0	C(C=N)(N)=O	1	Nitrile Hydrolysis
+4_0	N	-1	Nitrile Amination
+4_0	C#N	-1	Nitrile Amination
+4_0	C(N)=N	1	Nitrile Amination
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C(C=N)#N	1	HCN Addition to Nitriles
+8_0	O	-1	Nitrile Hydrolysis
+8_0	C#N	-1	Nitrile Hydrolysis
+8_0	C(N)=O	1	Nitrile Hydrolysis
+10_0	C(N)=N	-1	Nitrile Amination
+10_0	C(C=N)#N	-1	Nitrile Amination
+10_0	C(NC(C=N)=N)=N	1	Nitrile Amination
+12_0	C#N	-1	Nitrile Amination
+12_0	C(N)=N	-1	Nitrile Amination
+12_0	C(NC=N)=N	1	Nitrile Amination
+14_0	C(C=N)#N	-1	Nitrile Amination
+14_0	C(N)=O	-1	Nitrile Amination
+14_0	C(NC(C=N)=N)=O	1	Nitrile Amination
+16_0	N	-1	Nitrile Amination
+16_0	C(C=N)#N	-1	Nitrile Amination
+16_0	C(C(N)=N)=N	1	Nitrile Amination
+18_0	C#N	-1	Nitrile Amination
+18_0	C(N)=O	-1	Nitrile Amination
+18_0	C(NC=N)=O	1	Nitrile Amination
+20_0	C#N	-1	CN addition to iminonitriles
+20_0	C(C=N)#N	-1	CN addition to iminonitriles
+20_0	C(C(C#N)N)#N	1	CN addition to iminonitriles
+22_0	O	-1	Amide Hydrolysis
+22_0	C(N)=O	-1	Amide Hydrolysis
+22_0	N	1	Amide Hydrolysis
+22_0	C(O)=O	1	Amide Hydrolysis
+23_0	O	-1	Imine to Carbonyl
+23_0	C(N)=N	-1	Imine to Carbonyl
+23_0	N	1	Imine to Carbonyl
+23_0	C(N)=O	1	Imine to Carbonyl
+23_1	O	-1	Amidine to Amide Hydrolysis
+23_1	C(N)=N	-1	Amidine to Amide Hydrolysis
+23_1	N	1	Amidine to Amide Hydrolysis
+23_1	C(N)=O	1	Amidine to Amide Hydrolysis
+25_0	O	-1	Imine to Carbonyl
+25_0	C(C=N)#N	-1	Imine to Carbonyl
+25_0	N	1	Imine to Carbonyl
+25_0	C(C=O)#N	1	Imine to Carbonyl
+27_0	O	-1	Nitrile Hydrolysis
+27_0	C(C=N)#N	-1	Nitrile Hydrolysis
+27_0	C(C=N)(N)=O	1	Nitrile Hydrolysis
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
+16_0	C(C(C(C=O)O)N)(O)=O	-1	Aldol Condensation
+16_0	C(CN)=O	-1	Aldol Condensation
+16_0	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Aldol Condensation
+16_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+16_1	C(CN)=O	-1	Knoevenagel H
+16_1	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Knoevenagel H
+18_0	C(=O)=O	-1	Aldol Condensation
+18_0	C(CN)=O	-1	Aldol Condensation
+18_0	C(C(C(O)=O)N)=O	1	Aldol Condensation
+18_1	C(=O)=O	-1	Knoevenagel H
+18_1	C(CN)=O	-1	Knoevenagel H
+18_1	C(C(C(O)=O)N)=O	1	Knoevenagel H
+18_2	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(CN)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(C(C(O)=O)N)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+20_0	C=O	-1	Aldol Condensation
+20_0	C(CN)=O	-1	Aldol Condensation
+20_0	C(C(CO)N)=O	1	Aldol Condensation
+20_1	C=O	-1	Knoevenagel H
+20_1	C(CN)=O	-1	Knoevenagel H
+20_1	C(C(CO)N)=O	1	Knoevenagel H
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(C(C(CN)O)N)=O	1	Aldol Condensation
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(C(C(CN)O)N)=O	1	Knoevenagel H
+24_0	C(CN)=O	-1	Aldol Condensation
+24_0	C(C(O)=O)=O	-1	Aldol Condensation
+24_0	C(C(C(C=O)N)O)(O)=O	1	Aldol Condensation
+24_1	C(CN)=O	-1	Knoevenagel H
+24_1	C(C(O)=O)=O	-1	Knoevenagel H
+24_1	C(C(C(C=O)N)O)(O)=O	1	Knoevenagel H
+26_0	C(C=O)=O	-1	Aldol Condensation
+26_0	C(CN)=O	-1	Aldol Condensation
+26_0	C(C(C(C=O)N)O)=O	1	Aldol Condensation
+26_1	C(C=O)=O	-1	Knoevenagel H
+26_1	C(CN)=O	-1	Knoevenagel H
+26_1	C(C(C(C=O)N)O)=O	1	Knoevenagel H
+27_0	C(CO)(O)=O	-1	Benzilic Acid Rearrangement (inverse)
+27_0	O	1	Benzilic Acid Rearrangement (inverse)
+27_0	C(C=O)=O	1	Benzilic Acid Rearrangement (inverse)
+29_0	C(C(C(C=O)O)N)(O)=O	-1	Keto-enol migration twice
+29_0	C(C(C(CO)=O)N)(O)=O	1	Keto-enol migration twice
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	O	1	Amadori/Heyns Rearrangement
+31_0	C(C(C(CNC(C(O)=O)C(C=O)O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+33_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+33_0	CN	-1	Amadori/Heyns Rearrangement
+33_0	O	1	Amadori/Heyns Rearrangement
+33_0	C(CNC)(C(C(O)=O)N)=O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+35_0	C(CN)=O	-1	Amadori/Heyns Rearrangement
+35_0	O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(CNCC=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+37_0	C(CN)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	O	1	Amadori/Heyns Rearrangement
+37_0	C(C(C(CNCC(O)=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+39_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+39_0	C(=O)=O	-1	Knoevenagel C
+39_0	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+39_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+39_1	C(=O)=O	-1	Knoevenagel H
+39_1	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+41_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+41_0	C=O	-1	Knoevenagel C
+41_0	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+41_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+41_1	C=O	-1	Knoevenagel H
+41_1	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+43_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+43_0	C(CN)=O	-1	Knoevenagel C
+43_0	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+43_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+43_1	C(CN)=O	-1	Knoevenagel H
+43_1	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+45_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+45_0	C(C(O)=O)=O	-1	Knoevenagel C
+45_0	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel C
+45_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+45_1	C(C(O)=O)=O	-1	Knoevenagel H
+45_1	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel H
+47_0	C(C=O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+47_1	C(C=O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+49_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+49_0	C(=O)=O	-1	Knoevenagel C
+49_0	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel C
+49_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+49_1	C(=O)=O	-1	Knoevenagel H
+49_1	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+51_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+51_0	C=O	-1	Knoevenagel C
+51_0	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+51_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+51_1	C=O	-1	Knoevenagel H
+51_1	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+53_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+53_0	C(CN)=O	-1	Knoevenagel C
+53_0	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+53_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+53_1	C(CN)=O	-1	Knoevenagel H
+53_1	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+55_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+55_0	C(C(O)=O)=O	-1	Knoevenagel C
+55_0	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel C
+55_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+55_1	C(C(O)=O)=O	-1	Knoevenagel H
+55_1	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel H
+57_0	C(C=O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel C
+57_1	C(C=O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel H
+59_0	C(CO)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C(C(C(O)=O)O)O)O)N)(O)=O	1	Knoevenagel H
+61_0	C(CO)(O)=O	-1	Knoevenagel H
+61_0	C(=O)=O	-1	Knoevenagel H
+61_0	C(C(C(O)=O)O)(O)=O	1	Knoevenagel H
+63_0	C(CO)(O)=O	-1	Knoevenagel H
+63_0	C=O	-1	Knoevenagel H
+63_0	C(C(CO)O)(O)=O	1	Knoevenagel H
+65_0	C(CO)(O)=O	-1	Knoevenagel H
+65_0	C(CN)=O	-1	Knoevenagel H
+65_0	C(C(C(CN)O)O)(O)=O	1	Knoevenagel H
+67_0	C(CO)(O)=O	-1	Knoevenagel H
+67_0	C(C(O)=O)=O	-1	Knoevenagel H
+67_0	C(C(C(C(O)=O)O)O)(O)=O	1	Knoevenagel H
+69_0	C(C=O)=O	-1	Knoevenagel H
+69_0	C(CO)(O)=O	-1	Knoevenagel H
+69_0	C(C(C(C=O)O)O)(O)=O	1	Knoevenagel H
+71_0	C(CN)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C(C(C(O)=O)N)O)O)N)(O)=O	1	Knoevenagel H
+73_0	C(CN)(O)=O	-1	Knoevenagel H
+73_0	C(=O)=O	-1	Knoevenagel H
+73_0	C(C(C(O)=O)N)(O)=O	1	Knoevenagel H
+73_1	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(C(C(O)=O)N)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+75_0	C(CN)(O)=O	-1	Knoevenagel H
+75_0	C=O	-1	Knoevenagel H
+75_0	C(C(CO)N)(O)=O	1	Knoevenagel H
+77_0	C(CN)(O)=O	-1	Knoevenagel H
+77_0	C(CN)=O	-1	Knoevenagel H
+77_0	C(C(C(CN)O)N)(O)=O	1	Knoevenagel H
+79_0	C(CN)(O)=O	-1	Knoevenagel H
+79_0	C(C(O)=O)=O	-1	Knoevenagel H
+79_0	C(C(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+80_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H (inv)
+80_0	C(C=O)=O	1	Knoevenagel H (inv)
+80_0	C(CN)(O)=O	1	Knoevenagel H (inv)
+82_0	C(C(C(C=O)O)N)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+82_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+82_0	C(C(CN)O)=O	1	Ketone-Catalyzed Decarboxylation
+84_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C=O)O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+85_0	CN	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(CN)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+86_0	C(=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(C=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)(O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+88_0	C(C(C(C=O)O)N)(O)=O	-1	Elimination2
+88_0	O	1	Elimination2
+88_0	C(C=C(C(O)=O)N)=O	1	Elimination2
+88_1	C(C(C(C=O)O)N)(O)=O	-1	Dehydration of Amines
+88_1	O	1	Dehydration of Amines
+88_1	C(C=C(C(O)=O)N)=O	1	Dehydration of Amines
+91_0	C(C(C(C=O)O)N)(O)=O	-1	Deamination 2
+91_0	C(CC(C=O)=O)(O)=O	1	Deamination 2
+91_0	N	1	Deamination 2
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	O	1	Mannich Addition
+93_0	C(C(C(C=O)O)NC(C=O)C(C(O)=O)N)(O)=O	1	Mannich Addition
+95_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+95_0	CN	-1	Mannich Addition
+95_0	O	1	Mannich Addition
+95_0	C(C(C(C(O)=O)N)NC)=O	1	Mannich Addition
+97_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+97_0	C(CN)=O	-1	Mannich Addition
+97_0	O	1	Mannich Addition
+97_0	C(C(C(C(O)=O)N)NCC=O)=O	1	Mannich Addition
+99_0	C(CN)(O)=O	-1	Mannich Addition
+99_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+99_0	O	1	Mannich Addition
+99_0	C(C(C(C(O)=O)N)NCC(O)=O)=O	1	Mannich Addition
+100_0	O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)O)(O)=O	1	Mannich Addition (reverse)
+100_0	N	1	Mannich Addition (reverse)
+102_0	C(C(C(C=O)O)N)(O)=O	-1	Hemiacetal Formation for 5 membered rings
+102_0	C1(C(C(C(O)O1)O)N)=O	1	Hemiacetal Formation for 5 membered rings
+104_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination
+104_0	C(C(O)=O)=O	-1	Transamination
+104_0	C(CN)(O)=O	1	Transamination
+104_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination
+104_1	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+104_1	C(C(O)=O)=O	-1	Transamination (inverse)
+104_1	C(CN)(O)=O	1	Transamination (inverse)
+104_1	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+105_0	CN	-1	Transamination
+105_0	C(C(O)=O)=O	-1	Transamination
+105_0	C(CN)(O)=O	1	Transamination
+105_0	C=O	1	Transamination
+106_0	C(CN)=O	-1	Transamination
+106_0	C(C(O)=O)=O	-1	Transamination
+106_0	C(C=O)=O	1	Transamination
+106_0	C(CN)(O)=O	1	Transamination
+107_0	C(CN)(O)=O	-1	Transamination
+107_0	C(C(O)=O)=O	-1	Transamination
+107_0	C(CN)(O)=O	1	Transamination
+107_0	C(C(O)=O)=O	1	Transamination
+107_1	C(CN)(O)=O	-1	Transamination (inverse)
+107_1	C(C(O)=O)=O	-1	Transamination (inverse)
+107_1	C(CN)(O)=O	1	Transamination (inverse)
+107_1	C(C(O)=O)=O	1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+108_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+109_0	C(CN)(O)=O	-1	Transamination (inverse)
+109_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+109_0	C(C(O)=O)=O	1	Transamination (inverse)
+109_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+110_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+110_0	C=O	-1	Transamination (inverse)
+110_0	CN	1	Transamination (inverse)
+110_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+112_0	C(CN)=O	-1	Transamination (inverse)
+112_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(CN)N	1	Transamination (inverse)
+113_0	C(C=O)=O	-1	Transamination (inverse)
+113_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+113_0	C(CN)=O	1	Transamination (inverse)
+113_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+114_0	C(CN)(O)=O	-1	Transamination (inverse)
+114_0	C=O	-1	Transamination (inverse)
+114_0	CN	1	Transamination (inverse)
+114_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)(O)=O	-1	Transamination (inverse)
+115_0	C(CN)=O	-1	Transamination (inverse)
+115_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)N	1	Transamination (inverse)
+116_0	C(C(O)=O)=O	-1	Alpha-Keto Acid Decarboxylation
+116_0	C(=O)=O	1	Alpha-Keto Acid Decarboxylation
+116_0	C=O	1	Alpha-Keto Acid Decarboxylation
+117_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HH
+117_0	C=O	-1	Strecker Degradation, HH
+117_0	CN	1	Strecker Degradation, HH
+117_0	C(=O)=O	1	Strecker Degradation, HH
+117_0	C(C(C=O)O)=O	1	Strecker Degradation, HH
+118_0	C(CN)(O)=O	-1	Strecker Degradation, HH
+118_0	C=O	-1	Strecker Degradation, HH
+118_0	CN	1	Strecker Degradation, HH
+118_0	C(=O)=O	1	Strecker Degradation, HH
+118_0	C=O	1	Strecker Degradation, HH
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(=O)=O	1	Strecker Degradation, HC
+119_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+119_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+120_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+120_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+120_0	C(=O)=O	1	Strecker Degradation, HC
+120_0	C=O	1	Strecker Degradation, HC
+120_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+121_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+121_0	C(CN)=O	-1	Strecker Degradation, HC
+121_0	C(=O)=O	1	Strecker Degradation, HC
+121_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+121_0	C(CN)N	1	Strecker Degradation, HC
+122_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+122_0	C(CN)=O	-1	Strecker Degradation, HC
+122_0	C(=O)=O	1	Strecker Degradation, HC
+122_0	C=O	1	Strecker Degradation, HC
+122_0	C(CN)N	1	Strecker Degradation, HC
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
+16_0	C(C(C(C=O)O)N)(O)=O	-1	Aldol Condensation
+16_0	C(CN)=O	-1	Aldol Condensation
+16_0	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Aldol Condensation
+16_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+16_1	C(CN)=O	-1	Knoevenagel H
+16_1	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Knoevenagel H
+18_0	C(=O)=O	-1	Aldol Condensation
+18_0	C(CN)=O	-1	Aldol Condensation
+18_0	C(C(C(O)=O)N)=O	1	Aldol Condensation
+18_1	C(=O)=O	-1	Knoevenagel H
+18_1	C(CN)=O	-1	Knoevenagel H
+18_1	C(C(C(O)=O)N)=O	1	Knoevenagel H
+18_2	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(CN)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(C(C(O)=O)N)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+20_0	C=O	-1	Aldol Condensation
+20_0	C(CN)=O	-1	Aldol Condensation
+20_0	C(C(CO)N)=O	1	Aldol Condensation
+20_1	C=O	-1	Knoevenagel H
+20_1	C(CN)=O	-1	Knoevenagel H
+20_1	C(C(CO)N)=O	1	Knoevenagel H
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(C(C(CN)O)N)=O	1	Aldol Condensation
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(C(C(CN)O)N)=O	1	Knoevenagel H
+24_0	C(CN)=O	-1	Aldol Condensation
+24_0	C(C(O)=O)=O	-1	Aldol Condensation
+24_0	C(C(C(C=O)N)O)(O)=O	1	Aldol Condensation
+24_1	C(CN)=O	-1	Knoevenagel H
+24_1	C(C(O)=O)=O	-1	Knoevenagel H
+24_1	C(C(C(C=O)N)O)(O)=O	1	Knoevenagel H
+26_0	C(C=O)=O	-1	Aldol Condensation
+26_0	C(CN)=O	-1	Aldol Condensation
+26_0	C(C(C(C=O)N)O)=O	1	Aldol Condensation
+26_1	C(C=O)=O	-1	Knoevenagel H
+26_1	C(CN)=O	-1	Knoevenagel H
+26_1	C(C(C(C=O)N)O)=O	1	Knoevenagel H
+27_0	C(CO)(O)=O	-1	Benzilic Acid Rearrangement (inverse)
+27_0	O	1	Benzilic Acid Rearrangement (inverse)
+27_0	C(C=O)=O	1	Benzilic Acid Rearrangement (inverse)
+29_0	C(C(C(C=O)O)N)(O)=O	-1	Keto-enol migration twice
+29_0	C(C(C(CO)=O)N)(O)=O	1	Keto-enol migration twice
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	O	1	Amadori/Heyns Rearrangement
+31_0	C(C(C(CNC(C(O)=O)C(C=O)O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+33_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+33_0	CN	-1	Amadori/Heyns Rearrangement
+33_0	O	1	Amadori/Heyns Rearrangement
+33_0	C(CNC)(C(C(O)=O)N)=O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+35_0	C(CN)=O	-1	Amadori/Heyns Rearrangement
+35_0	O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(CNCC=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+37_0	C(CN)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	O	1	Amadori/Heyns Rearrangement
+37_0	C(C(C(CNCC(O)=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+39_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+39_0	C(=O)=O	-1	Knoevenagel C
+39_0	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+39_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+39_1	C(=O)=O	-1	Knoevenagel H
+39_1	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+41_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+41_0	C=O	-1	Knoevenagel C
+41_0	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+41_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+41_1	C=O	-1	Knoevenagel H
+41_1	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+43_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+43_0	C(CN)=O	-1	Knoevenagel C
+43_0	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+43_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+43_1	C(CN)=O	-1	Knoevenagel H
+43_1	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+45_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+45_0	C(C(O)=O)=O	-1	Knoevenagel C
+45_0	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel C
+45_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+45_1	C(C(O)=O)=O	-1	Knoevenagel H
+45_1	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel H
+47_0	C(C=O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+47_1	C(C=O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+49_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+49_0	C(=O)=O	-1	Knoevenagel C
+49_0	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel C
+49_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+49_1	C(=O)=O	-1	Knoevenagel H
+49_1	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+51_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+51_0	C=O	-1	Knoevenagel C
+51_0	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+51_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+51_1	C=O	-1	Knoevenagel H
+51_1	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+53_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+53_0	C(CN)=O	-1	Knoevenagel C
+53_0	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+53_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+53_1	C(CN)=O	-1	Knoevenagel H
+53_1	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+55_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+55_0	C(C(O)=O)=O	-1	Knoevenagel C
+55_0	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel C
+55_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+55_1	C(C(O)=O)=O	-1	Knoevenagel H
+55_1	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel H
+57_0	C(C=O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel C
+57_1	C(C=O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel H
+59_0	C(CO)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C(C(C(O)=O)O)O)O)N)(O)=O	1	Knoevenagel H
+61_0	C(CO)(O)=O	-1	Knoevenagel H
+61_0	C(=O)=O	-1	Knoevenagel H
+61_0	C(C(C(O)=O)O)(O)=O	1	Knoevenagel H
+63_0	C(CO)(O)=O	-1	Knoevenagel H
+63_0	C=O	-1	Knoevenagel H
+63_0	C(C(CO)O)(O)=O	1	Knoevenagel H
+65_0	C(CO)(O)=O	-1	Knoevenagel H
+65_0	C(CN)=O	-1	Knoevenagel H
+65_0	C(C(C(CN)O)O)(O)=O	1	Knoevenagel H
+67_0	C(CO)(O)=O	-1	Knoevenagel H
+67_0	C(C(O)=O)=O	-1	Knoevenagel H
+67_0	C(C(C(C(O)=O)O)O)(O)=O	1	Knoevenagel H
+69_0	C(C=O)=O	-1	Knoevenagel H
+69_0	C(CO)(O)=O	-1	Knoevenagel H
+69_0	C(C(C(C=O)O)O)(O)=O	1	Knoevenagel H
+71_0	C(CN)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C(C(C(O)=O)N)O)O)N)(O)=O	1	Knoevenagel H
+73_0	C(CN)(O)=O	-1	Knoevenagel H
+73_0	C(=O)=O	-1	Knoevenagel H
+73_0	C(C(C(O)=O)N)(O)=O	1	Knoevenagel H
+73_1	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(C(C(O)=O)N)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+75_0	C(CN)(O)=O	-1	Knoevenagel H
+75_0	C=O	-1	Knoevenagel H
+75_0	C(C(CO)N)(O)=O	1	Knoevenagel H
+77_0	C(CN)(O)=O	-1	Knoevenagel H
+77_0	C(CN)=O	-1	Knoevenagel H
+77_0	C(C(C(CN)O)N)(O)=O	1	Knoevenagel H
+79_0	C(CN)(O)=O	-1	Knoevenagel H
+79_0	C(C(O)=O)=O	-1	Knoevenagel H
+79_0	C(C(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+80_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H (inv)
+80_0	C(C=O)=O	1	Knoevenagel H (inv)
+80_0	C(CN)(O)=O	1	Knoevenagel H (inv)
+82_0	C(C(C(C=O)O)N)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+82_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+82_0	C(C(CN)O)=O	1	Ketone-Catalyzed Decarboxylation
+84_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C=O)O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+85_0	CN	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(CN)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+86_0	C(=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(C=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)(O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+88_0	C(C(C(C=O)O)N)(O)=O	-1	Elimination2
+88_0	O	1	Elimination2
+88_0	C(C=C(C(O)=O)N)=O	1	Elimination2
+88_1	C(C(C(C=O)O)N)(O)=O	-1	Dehydration of Amines
+88_1	O	1	Dehydration of Amines
+88_1	C(C=C(C(O)=O)N)=O	1	Dehydration of Amines
+91_0	C(C(C(C=O)O)N)(O)=O	-1	Deamination 2
+91_0	C(CC(C=O)=O)(O)=O	1	Deamination 2
+91_0	N	1	Deamination 2
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	O	1	Mannich Addition
+93_0	C(C(C(C=O)O)NC(C=O)C(C(O)=O)N)(O)=O	1	Mannich Addition
+95_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+95_0	CN	-1	Mannich Addition
+95_0	O	1	Mannich Addition
+95_0	C(C(C(C(O)=O)N)NC)=O	1	Mannich Addition
+97_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+97_0	C(CN)=O	-1	Mannich Addition
+97_0	O	1	Mannich Addition
+97_0	C(C(C(C(O)=O)N)NCC=O)=O	1	Mannich Addition
+99_0	C(CN)(O)=O	-1	Mannich Addition
+99_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+99_0	O	1	Mannich Addition
+99_0	C(C(C(C(O)=O)N)NCC(O)=O)=O	1	Mannich Addition
+100_0	O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)O)(O)=O	1	Mannich Addition (reverse)
+100_0	N	1	Mannich Addition (reverse)
+102_0	C(C(C(C=O)O)N)(O)=O	-1	Hemiacetal Formation for 5 membered rings
+102_0	C1(C(C(C(O)O1)O)N)=O	1	Hemiacetal Formation for 5 membered rings
+104_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination
+104_0	C(C(O)=O)=O	-1	Transamination
+104_0	C(CN)(O)=O	1	Transamination
+104_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination
+104_1	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+104_1	C(C(O)=O)=O	-1	Transamination (inverse)
+104_1	C(CN)(O)=O	1	Transamination (inverse)
+104_1	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+105_0	CN	-1	Transamination
+105_0	C(C(O)=O)=O	-1	Transamination
+105_0	C(CN)(O)=O	1	Transamination
+105_0	C=O	1	Transamination
+106_0	C(CN)=O	-1	Transamination
+106_0	C(C(O)=O)=O	-1	Transamination
+106_0	C(C=O)=O	1	Transamination
+106_0	C(CN)(O)=O	1	Transamination
+107_0	C(CN)(O)=O	-1	Transamination
+107_0	C(C(O)=O)=O	-1	Transamination
+107_0	C(CN)(O)=O	1	Transamination
+107_0	C(C(O)=O)=O	1	Transamination
+107_1	C(CN)(O)=O	-1	Transamination (inverse)
+107_1	C(C(O)=O)=O	-1	Transamination (inverse)
+107_1	C(CN)(O)=O	1	Transamination (inverse)
+107_1	C(C(O)=O)=O	1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+108_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+109_0	C(CN)(O)=O	-1	Transamination (inverse)
+109_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+109_0	C(C(O)=O)=O	1	Transamination (inverse)
+109_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+110_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+110_0	C=O	-1	Transamination (inverse)
+110_0	CN	1	Transamination (inverse)
+110_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+112_0	C(CN)=O	-1	Transamination (inverse)
+112_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(CN)N	1	Transamination (inverse)
+113_0	C(C=O)=O	-1	Transamination (inverse)
+113_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+113_0	C(CN)=O	1	Transamination (inverse)
+113_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+114_0	C(CN)(O)=O	-1	Transamination (inverse)
+114_0	C=O	-1	Transamination (inverse)
+114_0	CN	1	Transamination (inverse)
+114_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)(O)=O	-1	Transamination (inverse)
+115_0	C(CN)=O	-1	Transamination (inverse)
+115_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)N	1	Transamination (inverse)
+116_0	C(C(O)=O)=O	-1	Alpha-Keto Acid Decarboxylation
+116_0	C(=O)=O	1	Alpha-Keto Acid Decarboxylation
+116_0	C=O	1	Alpha-Keto Acid Decarboxylation
+117_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HH
+117_0	C=O	-1	Strecker Degradation, HH
+117_0	CN	1	Strecker Degradation, HH
+117_0	C(=O)=O	1	Strecker Degradation, HH
+117_0	C(C(C=O)O)=O	1	Strecker Degradation, HH
+118_0	C(CN)(O)=O	-1	Strecker Degradation, HH
+118_0	C=O	-1	Strecker Degradation, HH
+118_0	CN	1	Strecker Degradation, HH
+118_0	C(=O)=O	1	Strecker Degradation, HH
+118_0	C=O	1	Strecker Degradation, HH
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(=O)=O	1	Strecker Degradation, HC
+119_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+119_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+120_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+120_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+120_0	C(=O)=O	1	Strecker Degradation, HC
+120_0	C=O	1	Strecker Degradation, HC
+120_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+121_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+121_0	C(CN)=O	-1	Strecker Degradation, HC
+121_0	C(=O)=O	1	Strecker Degradation, HC
+121_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+121_0	C(CN)N	1	Strecker Degradation, HC
+122_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+122_0	C(CN)=O	-1	Strecker Degradation, HC
+122_0	C(=O)=O	1	Strecker Degradation, HC
+122_0	C=O	1	Strecker Degradation, HC
+122_0	C(CN)N	1	Strecker Degradation, HC
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
+16_0	C(C(C(C=O)O)N)(O)=O	-1	Aldol Condensation
+16_0	C(CN)=O	-1	Aldol Condensation
+16_0	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Aldol Condensation
+16_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+16_1	C(CN)=O	-1	Knoevenagel H
+16_1	C(C(C(C(C(C=O)N)O)O)N)(O)=O	1	Knoevenagel H
+18_0	C(=O)=O	-1	Aldol Condensation
+18_0	C(CN)=O	-1	Aldol Condensation
+18_0	C(C(C(O)=O)N)=O	1	Aldol Condensation
+18_1	C(=O)=O	-1	Knoevenagel H
+18_1	C(CN)=O	-1	Knoevenagel H
+18_1	C(C(C(O)=O)N)=O	1	Knoevenagel H
+18_2	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(CN)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+18_2	C(C(C(O)=O)N)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+20_0	C=O	-1	Aldol Condensation
+20_0	C(CN)=O	-1	Aldol Condensation
+20_0	C(C(CO)N)=O	1	Aldol Condensation
+20_1	C=O	-1	Knoevenagel H
+20_1	C(CN)=O	-1	Knoevenagel H
+20_1	C(C(CO)N)=O	1	Knoevenagel H
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(CN)=O	-1	Aldol Condensation
+22_0	C(C(C(CN)O)N)=O	1	Aldol Condensation
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(CN)=O	-1	Knoevenagel H
+22_1	C(C(C(CN)O)N)=O	1	Knoevenagel H
+24_0	C(CN)=O	-1	Aldol Condensation
+24_0	C(C(O)=O)=O	-1	Aldol Condensation
+24_0	C(C(C(C=O)N)O)(O)=O	1	Aldol Condensation
+24_1	C(CN)=O	-1	Knoevenagel H
+24_1	C(C(O)=O)=O	-1	Knoevenagel H
+24_1	C(C(C(C=O)N)O)(O)=O	1	Knoevenagel H
+26_0	C(C=O)=O	-1	Aldol Condensation
+26_0	C(CN)=O	-1	Aldol Condensation
+26_0	C(C(C(C=O)N)O)=O	1	Aldol Condensation
+26_1	C(C=O)=O	-1	Knoevenagel H
+26_1	C(CN)=O	-1	Knoevenagel H
+26_1	C(C(C(C=O)N)O)=O	1	Knoevenagel H
+27_0	C(CO)(O)=O	-1	Benzilic Acid Rearrangement (inverse)
+27_0	O	1	Benzilic Acid Rearrangement (inverse)
+27_0	C(C=O)=O	1	Benzilic Acid Rearrangement (inverse)
+29_0	C(C(C(C=O)O)N)(O)=O	-1	Keto-enol migration twice
+29_0	C(C(C(CO)=O)N)(O)=O	1	Keto-enol migration twice
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+31_0	O	1	Amadori/Heyns Rearrangement
+31_0	C(C(C(CNC(C(O)=O)C(C=O)O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+33_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+33_0	CN	-1	Amadori/Heyns Rearrangement
+33_0	O	1	Amadori/Heyns Rearrangement
+33_0	C(CNC)(C(C(O)=O)N)=O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+35_0	C(CN)=O	-1	Amadori/Heyns Rearrangement
+35_0	O	1	Amadori/Heyns Rearrangement
+35_0	C(C(C(CNCC=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+37_0	C(CN)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	C(C(C(C=O)O)N)(O)=O	-1	Amadori/Heyns Rearrangement
+37_0	O	1	Amadori/Heyns Rearrangement
+37_0	C(C(C(CNCC(O)=O)=O)N)(O)=O	1	Amadori/Heyns Rearrangement
+39_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+39_0	C(=O)=O	-1	Knoevenagel C
+39_0	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+39_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+39_1	C(=O)=O	-1	Knoevenagel H
+39_1	C(C(C(O)=O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+41_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+41_0	C=O	-1	Knoevenagel C
+41_0	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+41_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+41_1	C=O	-1	Knoevenagel H
+41_1	C(C(CO)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+43_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+43_0	C(CN)=O	-1	Knoevenagel C
+43_0	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+43_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+43_1	C(CN)=O	-1	Knoevenagel H
+43_1	C(C(C(CN)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+45_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+45_0	C(C(O)=O)=O	-1	Knoevenagel C
+45_0	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel C
+45_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+45_1	C(C(O)=O)=O	-1	Knoevenagel H
+45_1	C(C(C(C(O)=O)(C(C=O)O)N)O)(O)=O	1	Knoevenagel H
+47_0	C(C=O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+47_0	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel C
+47_1	C(C=O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+47_1	C(C(C(C=O)O)(C(C=O)O)N)(O)=O	1	Knoevenagel H
+49_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+49_0	C(=O)=O	-1	Knoevenagel C
+49_0	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel C
+49_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+49_1	C(=O)=O	-1	Knoevenagel H
+49_1	C(C(C=O)(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+51_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+51_0	C=O	-1	Knoevenagel C
+51_0	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+51_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+51_1	C=O	-1	Knoevenagel H
+51_1	C(C(CO)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+53_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+53_0	C(CN)=O	-1	Knoevenagel C
+53_0	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel C
+53_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+53_1	C(CN)=O	-1	Knoevenagel H
+53_1	C(C(C(CN)O)(C(C(O)=O)N)O)=O	1	Knoevenagel H
+55_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+55_0	C(C(O)=O)=O	-1	Knoevenagel C
+55_0	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel C
+55_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+55_1	C(C(O)=O)=O	-1	Knoevenagel H
+55_1	C(C(C(C=O)(C(C(O)=O)N)O)O)(O)=O	1	Knoevenagel H
+57_0	C(C=O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel C
+57_0	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel C
+57_1	C(C=O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+57_1	C(C(C(C=O)(C(C=O)O)O)N)(O)=O	1	Knoevenagel H
+59_0	C(CO)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+59_0	C(C(C(C(C(C(O)=O)O)O)O)N)(O)=O	1	Knoevenagel H
+61_0	C(CO)(O)=O	-1	Knoevenagel H
+61_0	C(=O)=O	-1	Knoevenagel H
+61_0	C(C(C(O)=O)O)(O)=O	1	Knoevenagel H
+63_0	C(CO)(O)=O	-1	Knoevenagel H
+63_0	C=O	-1	Knoevenagel H
+63_0	C(C(CO)O)(O)=O	1	Knoevenagel H
+65_0	C(CO)(O)=O	-1	Knoevenagel H
+65_0	C(CN)=O	-1	Knoevenagel H
+65_0	C(C(C(CN)O)O)(O)=O	1	Knoevenagel H
+67_0	C(CO)(O)=O	-1	Knoevenagel H
+67_0	C(C(O)=O)=O	-1	Knoevenagel H
+67_0	C(C(C(C(O)=O)O)O)(O)=O	1	Knoevenagel H
+69_0	C(C=O)=O	-1	Knoevenagel H
+69_0	C(CO)(O)=O	-1	Knoevenagel H
+69_0	C(C(C(C=O)O)O)(O)=O	1	Knoevenagel H
+71_0	C(CN)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H
+71_0	C(C(C(C(C(C(O)=O)N)O)O)N)(O)=O	1	Knoevenagel H
+73_0	C(CN)(O)=O	-1	Knoevenagel H
+73_0	C(=O)=O	-1	Knoevenagel H
+73_0	C(C(C(O)=O)N)(O)=O	1	Knoevenagel H
+73_1	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+73_1	C(C(C(O)=O)N)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+75_0	C(CN)(O)=O	-1	Knoevenagel H
+75_0	C=O	-1	Knoevenagel H
+75_0	C(C(CO)N)(O)=O	1	Knoevenagel H
+77_0	C(CN)(O)=O	-1	Knoevenagel H
+77_0	C(CN)=O	-1	Knoevenagel H
+77_0	C(C(C(CN)O)N)(O)=O	1	Knoevenagel H
+79_0	C(CN)(O)=O	-1	Knoevenagel H
+79_0	C(C(O)=O)=O	-1	Knoevenagel H
+79_0	C(C(C(C(O)=O)N)O)(O)=O	1	Knoevenagel H
+80_0	C(C(C(C=O)O)N)(O)=O	-1	Knoevenagel H (inv)
+80_0	C(C=O)=O	1	Knoevenagel H (inv)
+80_0	C(CN)(O)=O	1	Knoevenagel H (inv)
+82_0	C(C(C(C=O)O)N)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+82_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+82_0	C(C(CN)O)=O	1	Ketone-Catalyzed Decarboxylation
+84_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+84_0	C(C(C=O)O)=O	1	Strecker Degradation Dicarbonyl, C, H, H, H
+85_0	CN	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(=O)=O	-1	Ketone-Catalyzed Decarboxylation, inverse
+85_0	C(CN)(O)=O	1	Ketone-Catalyzed Decarboxylation, inverse
+86_0	C(=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(C=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+86_0	C(CN)(O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H, inverse
+88_0	C(C(C(C=O)O)N)(O)=O	-1	Elimination2
+88_0	O	1	Elimination2
+88_0	C(C=C(C(O)=O)N)=O	1	Elimination2
+88_1	C(C(C(C=O)O)N)(O)=O	-1	Dehydration of Amines
+88_1	O	1	Dehydration of Amines
+88_1	C(C=C(C(O)=O)N)=O	1	Dehydration of Amines
+91_0	C(C(C(C=O)O)N)(O)=O	-1	Deamination 2
+91_0	C(CC(C=O)=O)(O)=O	1	Deamination 2
+91_0	N	1	Deamination 2
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+93_0	O	1	Mannich Addition
+93_0	C(C(C(C=O)O)NC(C=O)C(C(O)=O)N)(O)=O	1	Mannich Addition
+95_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+95_0	CN	-1	Mannich Addition
+95_0	O	1	Mannich Addition
+95_0	C(C(C(C(O)=O)N)NC)=O	1	Mannich Addition
+97_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+97_0	C(CN)=O	-1	Mannich Addition
+97_0	O	1	Mannich Addition
+97_0	C(C(C(C(O)=O)N)NCC=O)=O	1	Mannich Addition
+99_0	C(CN)(O)=O	-1	Mannich Addition
+99_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition
+99_0	O	1	Mannich Addition
+99_0	C(C(C(C(O)=O)N)NCC(O)=O)=O	1	Mannich Addition
+100_0	O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)N)(O)=O	-1	Mannich Addition (reverse)
+100_0	C(C(C(C=O)O)O)(O)=O	1	Mannich Addition (reverse)
+100_0	N	1	Mannich Addition (reverse)
+102_0	C(C(C(C=O)O)N)(O)=O	-1	Hemiacetal Formation for 5 membered rings
+102_0	C1(C(C(C(O)O1)O)N)=O	1	Hemiacetal Formation for 5 membered rings
+104_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination
+104_0	C(C(O)=O)=O	-1	Transamination
+104_0	C(CN)(O)=O	1	Transamination
+104_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination
+104_1	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+104_1	C(C(O)=O)=O	-1	Transamination (inverse)
+104_1	C(CN)(O)=O	1	Transamination (inverse)
+104_1	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+105_0	CN	-1	Transamination
+105_0	C(C(O)=O)=O	-1	Transamination
+105_0	C(CN)(O)=O	1	Transamination
+105_0	C=O	1	Transamination
+106_0	C(CN)=O	-1	Transamination
+106_0	C(C(O)=O)=O	-1	Transamination
+106_0	C(C=O)=O	1	Transamination
+106_0	C(CN)(O)=O	1	Transamination
+107_0	C(CN)(O)=O	-1	Transamination
+107_0	C(C(O)=O)=O	-1	Transamination
+107_0	C(CN)(O)=O	1	Transamination
+107_0	C(C(O)=O)=O	1	Transamination
+107_1	C(CN)(O)=O	-1	Transamination (inverse)
+107_1	C(C(O)=O)=O	-1	Transamination (inverse)
+107_1	C(CN)(O)=O	1	Transamination (inverse)
+107_1	C(C(O)=O)=O	1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+108_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+108_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+109_0	C(CN)(O)=O	-1	Transamination (inverse)
+109_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+109_0	C(C(O)=O)=O	1	Transamination (inverse)
+109_0	C(C(C(CN)O)N)(O)=O	1	Transamination (inverse)
+110_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+110_0	C=O	-1	Transamination (inverse)
+110_0	CN	1	Transamination (inverse)
+110_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+112_0	C(CN)=O	-1	Transamination (inverse)
+112_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+112_0	C(CN)N	1	Transamination (inverse)
+113_0	C(C=O)=O	-1	Transamination (inverse)
+113_0	C(C(C(C=O)O)N)(O)=O	-1	Transamination (inverse)
+113_0	C(CN)=O	1	Transamination (inverse)
+113_0	C(C(C(C(O)=O)=O)O)=O	1	Transamination (inverse)
+114_0	C(CN)(O)=O	-1	Transamination (inverse)
+114_0	C=O	-1	Transamination (inverse)
+114_0	CN	1	Transamination (inverse)
+114_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)(O)=O	-1	Transamination (inverse)
+115_0	C(CN)=O	-1	Transamination (inverse)
+115_0	C(C(O)=O)=O	1	Transamination (inverse)
+115_0	C(CN)N	1	Transamination (inverse)
+116_0	C(C(O)=O)=O	-1	Alpha-Keto Acid Decarboxylation
+116_0	C(=O)=O	1	Alpha-Keto Acid Decarboxylation
+116_0	C=O	1	Alpha-Keto Acid Decarboxylation
+117_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HH
+117_0	C=O	-1	Strecker Degradation, HH
+117_0	CN	1	Strecker Degradation, HH
+117_0	C(=O)=O	1	Strecker Degradation, HH
+117_0	C(C(C=O)O)=O	1	Strecker Degradation, HH
+118_0	C(CN)(O)=O	-1	Strecker Degradation, HH
+118_0	C=O	-1	Strecker Degradation, HH
+118_0	CN	1	Strecker Degradation, HH
+118_0	C(=O)=O	1	Strecker Degradation, HH
+118_0	C=O	1	Strecker Degradation, HH
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+119_0	C(=O)=O	1	Strecker Degradation, HC
+119_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+119_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+120_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+120_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+120_0	C(=O)=O	1	Strecker Degradation, HC
+120_0	C=O	1	Strecker Degradation, HC
+120_0	C(C(C(CN)O)N)(O)=O	1	Strecker Degradation, HC
+121_0	C(C(C(C=O)O)N)(O)=O	-1	Strecker Degradation, HC
+121_0	C(CN)=O	-1	Strecker Degradation, HC
+121_0	C(=O)=O	1	Strecker Degradation, HC
+121_0	C(C(C=O)O)=O	1	Strecker Degradation, HC
+121_0	C(CN)N	1	Strecker Degradation, HC
+122_0	C(CN)(O)=O	-1	Strecker Degradation, HC
+122_0	C(CN)=O	-1	Strecker Degradation, HC
+122_0	C(=O)=O	1	Strecker Degradation, HC
+122_0	C=O	1	Strecker Degradation, HC
+122_0	C(CN)N	1	Strecker Degradation, HC

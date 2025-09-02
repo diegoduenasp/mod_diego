@@ -1,0 +1,81 @@
+4_0	N	-1	Nitrile Amination
+4_0	C#N	-1	Nitrile Amination
+4_0	C(N)=N	1	Nitrile Amination
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C(C=N)#N	1	HCN Addition to Nitriles
+8_0	O	-1	Nitrile Hydrolysis
+8_0	C#N	-1	Nitrile Hydrolysis
+8_0	C(N)=O	1	Nitrile Hydrolysis
+4_0	N	-1	Nitrile Amination
+4_0	C#N	-1	Nitrile Amination
+4_0	C(N)=N	1	Nitrile Amination
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C#N	-1	HCN Addition to Nitriles
+6_0	C(C=N)#N	1	HCN Addition to Nitriles
+8_0	O	-1	Nitrile Hydrolysis
+8_0	C#N	-1	Nitrile Hydrolysis
+8_0	C(N)=O	1	Nitrile Hydrolysis
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
+4_0	O	-1	Benzilic Acid Rearrangement
+4_0	C(C=O)=O	-1	Benzilic Acid Rearrangement
+4_0	C(CO)(O)=O	1	Benzilic Acid Rearrangement
+4_1	O	-1	Cannizarro 1
+4_1	C(C=O)=O	-1	Cannizarro 1
+4_1	C(CO)(O)=O	1	Cannizarro 1
+6_0	C(C=O)=O	-1	Knoevenagel H
+6_0	C(CN)(O)=O	-1	Knoevenagel H
+6_0	C(C(C(C=O)O)N)(O)=O	1	Knoevenagel H
+9_0	C(CN)(O)=O	-1	Ketone-Catalyzed Decarboxylation
+9_0	CN	1	Ketone-Catalyzed Decarboxylation
+9_0	C(=O)=O	1	Ketone-Catalyzed Decarboxylation
+12_0	C(C=O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)(O)=O	-1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(=O)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+12_0	C(CN)=O	1	Strecker Degradation Dicarbonyl, H, H, H, H
+14_0	C(C=O)=O	-1	Transamination (inverse)
+14_0	C(CN)(O)=O	-1	Transamination (inverse)
+14_0	C(CN)=O	1	Transamination (inverse)
+14_0	C(C(O)=O)=O	1	Transamination (inverse)
